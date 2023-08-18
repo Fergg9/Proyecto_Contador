@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 10px;
+    font-family: sans-serif;
+
+}
+button:hover{
+    background-color:#b1b4ba;
+}
+
+.valor {
+    font-size: 30px;
+    margin: 5px 20px;
+    display: block;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
